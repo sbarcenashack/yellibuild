@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69534358.chunk.css",
+    "main.js": "/static/js/main.3ecf9a5f.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.adc4fb74.js",
+    "static/js/2.25565cfb.chunk.js": "/static/js/2.25565cfb.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.25565cfb.chunk.js.LICENSE.txt": "/static/js/2.25565cfb.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Poppins-ThinItalic.042c9112.ttf",
+    "static/media/amex.0f65cbe1.svg": "/static/media/amex.0f65cbe1.svg",
+    "static/media/bubble_tag.476e65dd.svg": "/static/media/bubble_tag.476e65dd.svg",
+    "static/media/diners.d81b8b4c.svg": "/static/media/diners.d81b8b4c.svg",
+    "static/media/discover.28236ccf.svg": "/static/media/discover.28236ccf.svg",
+    "static/media/jcb.37a0e2ee.svg": "/static/media/jcb.37a0e2ee.svg",
+    "static/media/logo.556c28df.svg": "/static/media/logo.556c28df.svg",
+    "static/media/logo_white.cc733408.svg": "/static/media/logo_white.cc733408.svg",
+    "static/media/mastercard.7bb792a2.svg": "/static/media/mastercard.7bb792a2.svg",
+    "static/media/unionpay.3d7f15f9.svg": "/static/media/unionpay.3d7f15f9.svg",
+    "static/media/visa.f627cb1c.svg": "/static/media/visa.f627cb1c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adc4fb74.js",
+    "static/js/2.25565cfb.chunk.js",
+    "static/css/main.69534358.chunk.css",
+    "static/js/main.3ecf9a5f.chunk.js"
+  ]
+}
